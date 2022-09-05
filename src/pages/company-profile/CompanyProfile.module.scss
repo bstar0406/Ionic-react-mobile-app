@@ -1,0 +1,70 @@
+.companyProfilePage {
+    ion-toolbar {
+
+        --border-style: none;
+        --border-color: transparent;
+        --padding-start: 1rem;
+        --padding-end: 1rem;
+
+
+        ion-router-link {
+            color: white;
+            font-size: 20px;
+        }
+    }
+
+    .companyProfileContainer {
+        min-height: 100%;
+        position: relative;
+        background-color: #ffffff;
+        background-image: radial-gradient(#b8b8b8 1px, transparent 1px),
+            radial-gradient(#b8b8b8 1px, #ffffff 1px);
+        background-size: 40px 40px;
+        background-position: 0 0, 20px 20px;
+        padding: 30px 10px;
+
+        .companyProfileHeading {
+            background: #fcedff;
+            border-radius: 10px;
+
+            span {
+                border-radius: 50%;
+                background: #a700ff;
+                color: white;
+                font-weight: bold;
+                font-size: 20px;
+                display: inline-block;
+                width: 50px;
+                height: 50px;
+                text-align: center;
+                line-height: 50px;
+            }
+        }
+
+        .companyProfileContent {
+            background: #fcedff;
+            margin: 20px 0 0 0;
+            border-radius: 10px;
+
+            ion-card {
+                border-radius: 10px;
+                color: white;
+                background: linear-gradient(135deg, #a700ff 0%, #00189a 100%);
+
+                h1 {
+                    font-weight: bold;
+                }
+            }
+
+            ion-button {
+
+                --border-radius: 20px;
+            }
+
+            ion-item {
+                --background: none;
+            }
+        }
+    }
+
+}

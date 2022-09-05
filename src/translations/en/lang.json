@@ -1,0 +1,194 @@
+{
+    "welcome": {
+        "title": "Welcome to Our Store"
+    },
+    "signup": {
+        "username": "Please enter user name",
+        "phone": "Please enter the phone number",
+        "password": "Please enter password",
+        "cpassword": "Please confirm your password",
+        "invitation": "Please enter the invitation code",
+        "register": "Register account",
+        "login": "Log in",
+        "app": "Download APP"
+    },
+    "login": {
+        "account": "Please enter account",
+        "password": "Please enter password",
+        "remember": "Remember",
+        "forgot": "Forgot your info?",
+        "register": "Register",
+        "login": "Log in"
+    },
+    "forgot": {
+        "title": "Change Password",
+        "oldpwd": "Please enter old password",
+        "newpwd": "Please enter new password",
+        "confirmpwd": "Please confirm new password",
+        "button": "Confirm"
+    },
+    "language": {
+        "title": "Languages"
+    },
+    "recharge-record": {
+        "title": "Recharge Record",
+        "order-number": "Order num",
+        "time": "Date",
+        "seccessful": "Successful"
+    },
+    "withdraw-record": {
+        "title": "Withdraw Record",
+        "order-number": "Order num",
+        "time": "Date",
+        "seccessful": "Successful"
+    },
+    "system-info": {
+        "title": "System Information",
+        "notification": "Notification",
+        "noti-title": "Noti-title",
+        "noti-content": "Hi, Welcome to our platform. I wish you have a good time."
+    },
+    "account-details": {
+        "title": "Account Details",
+        "status-commission": "Commission return order"
+    },
+    "invite": {
+        "title": "Invite friends to get commission",
+        "content": "Join my team every half hour every day. Winning 10,000 a month is just the beginning! Every invitation is a seed of opportunity, a ladder of wealth and freedom! Unlimited sharing, big rebates! Come on, the first tier is still 10%, the second tier is still 3%, and the third tier is still 1%.",
+        "invite-code": "Promotion code",
+        "button-text": "Copy the invitation link"
+    },
+    "tabs": {
+        "home": "Home",
+        "record": "Record",
+        "service": "Support",
+        "account": "Account"
+    },
+    "withdraw": {
+        "title": "Withdraw",
+        "input": "Please enter the withdrawal amount",
+        "avaliable-amount": "Avaliable withdraw amount",
+        "acc-name": "Account Name",
+        "phone": "Phone Number",
+        "comment": "After the wallet is approved, you need to log in to withdraw money",
+        "withdraw-amount": "Withdrawal Amount"
+    },
+    "bank": {
+        "title": "Bind Bank Card",
+        "id-info": "ID info",
+        "actual-name": "Actual name",
+        "contact-details": "Contact details",
+        "card-info": "bank card information",
+        "bank-name": "Bank name",
+        "wallet-address": "Wallet address/Bank card",
+        "other-info": "Other info",
+        "email": "Email",
+        "change": "Change",
+        "tip": "Kind tips",
+        "comment": "Dear users, in order to protect your funds, please do not enter your bank card password, our staff will not ask you to enter your bank card password."
+    },
+    "team-report": {
+        "title": "Team Report",
+        "all": "All",
+        "today": "Today",
+        "yesterday": "Yesterday",
+        "this-week": "This Week",
+        "all-data": "All Data",
+        "team-size": "Team size",
+        "team-commission": "Team order commission",
+        "user-name": "User name",
+        "user-level": "User level",
+        "phone": "Phone Number",
+        "register-time": "Registeration time"
+    },
+    "account": {
+        "title": "Personal",
+        "withdraw-amount": "Withdraw",
+        "t-report": "Team Report",
+        "recharge-record": "Recharge Record",
+        "withdraw-record": "Withdraw Record",
+        "acc-details": "Account Details",
+        "notification": "System Info",
+        "shipping-address": "Shipping Address",
+        "bind-bank": "Bind Bank Card",
+        "password": "Change Password",
+        "language": "Languages",
+        "logout": "Logout",
+        "invite-code": "Invite code",
+        "account-amount": "Account balance",
+        "enable-amount": "Avaliable",
+        "frozen-amount": "Frozen"
+    },
+    "order": {
+        "title": "Order",
+        "account-amount": "Account balance",
+        "ordinary-member": "Ordinary member",
+        "commission": "Commission",
+        "order": "Order",
+        "get-commission": "Get commissions",
+        "freeze-amount": "Frozen",
+        "quantity-order": "Quantity of order",
+        "enable-amount": "Avaliable",
+        "start-order": "Start grabbing orders",
+        "product-name": "Product name"
+    },
+    "record": {
+        "title": "Record",
+        "account-amount": "Account balance",
+        "status-processing": "Processing",
+        "status-completed": "Completed",
+        "status-freezing": "Freezing",
+        "order-amount": "Order Amount",
+        "commission": "Commission",
+        "returned-amount": "Returned Amount"
+    },
+    "support": {
+        "title": "Support"
+    },
+    "shipping": {
+        "title": "Shipping Address",
+        "id-info": "Identity info",
+        "actual-name": "Actual name",
+        "contact-details": "Contact details",
+        "add-info": "Address info",
+        "area": "Area",
+        "address": "Address",
+        "common-add": "Set to common address",
+        "confirm": "Change"
+    },
+    "home": {
+        "title": "HOME",
+        "mybalance": "My Balance",
+        "coincharge": "Recharge coin",
+        "cashwithdraw": "Withdraw cash",
+        "promotion": "Promotions",
+        "invite": "Invite friends",
+        "commisiontoday": "Commission today",
+        "totalrevenue": "Total revenue",
+        "membership-level": {
+            "title": "Membership level",
+            "ordinary-member": "Ordinary member",
+            "silver-member": "Silver Member",
+            "gold-member": "Gold Member",
+            "crown-member": "Crown Member",
+            "min-balance": "Minimum balance",
+            "commission": "Commission",
+            "orders": "Orders",
+            "current-level": "Current",
+            "join": "Join"
+        },
+        "membership-income": {
+            "title": "Membership Income",
+            "amount": "Amount"
+        },
+        "introduction": {
+            "title": "Platform Introduction",
+            "company-profile": "Company Profile...",
+            "rules-description": "Rules Description...",
+            "agency-cooperation": "Agency cooperation...",
+            "company-qualification": "Company qualification...",
+            "limit-money-laundering": "Limit money laundering..."
+        },
+        "partner": "Partners"
+    }
+}
